@@ -55,7 +55,7 @@ nav .menu a{
 
 /* Add padding to containers */
 .container {
-  padding: 5px;
+  padding: 8px;
   background-color: white;
   margin-top: 5px;
   float: right;
@@ -67,8 +67,8 @@ nav .menu a{
 }
 select{
   width: 100%;
-  padding: 4px;
-  margin: 5px 0 22px 0;
+  padding: 8px;
+  margin: 5px 0 10px 0;
   display: inline-block;
   border: none;
   background: #f1f1f1;
@@ -78,8 +78,8 @@ select{
 
 input[type=text], input[type=password] {
   width: 100%;
-  padding: 6px;
-  margin: 5px 0 22px 0;
+  padding: 8px;
+  margin: 5px 0 10px 0;
   display: inline-block;
   border: none;
   background: #f1f1f1;
